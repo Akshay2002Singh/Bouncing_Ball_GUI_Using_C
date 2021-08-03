@@ -6,7 +6,7 @@ This is a graphics based C game. It uses graphics.h header file.
 It uses co-ordinate system to check all the conditions.
 > Sound used in it is combination of different frequencies and delay function.
 
-![Bouncy Ball](/)
+![Bouncy Ball](/output.jpg)
 
 ## Git repo link
 https://github.com/Akshay2002Singh/Bouncing_ball
